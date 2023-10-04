@@ -18,6 +18,7 @@ function updateProfileInfo(profileData) {
     const phone = document.getElementById('phone')
     phone.innerText = profileData.phone
     phone.href = `tel:${profileData.phone}`
+    
     const email = document.getElementById('email')
     email.innerText = profileData.email
     email.href = `mailto:${profileData.email}`
@@ -41,8 +42,8 @@ function updatePortfolio(profileData) {
     portfolio.innerHTML = profileData.portfolio.map(project => {
         return `
         <li>
-                <h3 ${project.github ? 'class="github"':''}>${project.name}</h3>
-              <a href="${project.url}" target="__blank">${project.url}</a>
+            <h3 ${project.github ? 'class="github"':''}>${project.name}</h3>
+            <a href="${project.url}" target="__blank">${project.url}</a>
         </li>
         `
     }).join('')
@@ -54,9 +55,9 @@ function updateProfessionalExperience(profileData){
     professionalExperience.innerHTML=profileData.professionalExperience.map(experience=>{
         return `
         <li>
-        <h3 class="_title" >${experience.name}</h3>
+            <h3 class="_title" >${experience.name}</h3>
             <span class="period" >${experience.period}</span>
-        <p > ${experience.description}</p>
+            <p>${experience.description}</p>
         </li>
 
         `
@@ -70,4 +71,4 @@ function updateProfessionalExperience(profileData){
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
-})()//HABIA OLVIDADE DE LLAMAR LA FUNCION
+})()

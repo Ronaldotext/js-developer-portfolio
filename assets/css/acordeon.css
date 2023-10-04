@@ -14,7 +14,6 @@
 }
 
 .acordeon .trigger{
-    
     display:flex;
     flex-direction: row;
     justify-content:space-between;
@@ -25,7 +24,6 @@
     background-color: transparent;
     color:#fff;
     border:none ;
-
 
 }
 .acordeon .trigger>h2{
