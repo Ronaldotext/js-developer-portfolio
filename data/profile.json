@@ -3,33 +3,25 @@
   "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
   "job": "Developer Junior",
   "location": "Boa Vista - RR",
-  "phone": "(16) 21299122",
-  "email": "ronaldomarino00@7@gmail.com",
+  "phone": "(95) 21299122",
+  "email": "ronaldomarino0027@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/d020c8fd088e66ae1f4e0213c6460e7214c327a1/data/imgs/js.png"
       },
       {
         "name": "Angular",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Css",
+        "logo": "hhttps://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/d020c8fd088e66ae1f4e0213c6460e7214c327a1/data/imgs/css.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/d020c8fd088e66ae1f4e0213c6460e7214c327a1/data/imgs/html.png"
       }
     ],
     "softSkills": [
@@ -42,9 +34,9 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol",
+    "Inglês (intermediário)"
+  
   ],
   "portfolio": [
     {
