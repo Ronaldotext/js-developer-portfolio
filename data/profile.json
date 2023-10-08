@@ -13,7 +13,7 @@
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
         "name": "Css",
@@ -40,13 +40,23 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Criação de uma Pokedex",
       "url": "https://github.com/RenanJPaula/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criação de uma página de portfolio",
+      "url": "https://github.com/Ronaldotext/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Criação de uma página PlaystationStore com Angular",
+      "url": "https://github.com/Ronaldotext/PojectAngular",
+      "github": true
+    },
+    {
+      "name": "Criação de uma página com Angular",
+      "url": "https://github.com/Ronaldotext/angular-blogr",
       "github": true
     }
   ],
