@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/d020c8fd088e66ae1f4e0213c6460e7214c327a1/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Angular",
@@ -17,11 +17,11 @@
       },
       {
         "name": "Css",
-        "logo": "hhttps://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/d020c8fd088e66ae1f4e0213c6460e7214c327a1/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/d020c8fd088e66ae1f4e0213c6460e7214c327a1/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/html.png"
       }
     ],
     "softSkills": [
@@ -46,7 +46,7 @@
     },
     {
       "name": "Criação de uma página de portfolio",
-      "url": "https://github.com/Ronaldotext/js-developer-pokedex",
+      "url": "https://github.com/Ronaldotext/js-developer-portfolio",
       "github": true
     },
     {
