@@ -16,20 +16,20 @@
         "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
-        "name": "Css",
-        "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/css.png"
-      },
-      {
-        "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/html.png"
-      },
-      {
         "name": "TypeScript",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
       },
       {
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/Ronaldotext/js-developer-portfolio/main/data/imgs/html.png"
       }
     ],
     "softSkills": [
